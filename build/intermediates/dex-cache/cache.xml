@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\androidstudioprojects\testDB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\androidstudioprojects\testDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8f423a5beaec6cea762775810e2e9e58febd14e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudioprojects\testDB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\androidstudioprojects\testDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_129a29dfd4ca6d3e05f09774b9385af16b2924fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudioprojects\testDB\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e1c721f538f05938d50961e871991f772a8b20c">
+        <dex dex="D:\androidstudioprojects\testDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6aca74e1fce2396a5e7f3f013f89a503f93f5de9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudioprojects\testDB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\androidstudioprojects\testDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_dfc64272fadaf306c6f8677706e6c66a955fda48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudioprojects\testDB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\androidstudioprojects\testDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_b7e5bd73668afee83048a2e14d7b885ba576fc4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudioprojects\testDB\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="523e2b2c9f5e1df22ffa5aec2cd68859f30bd124">
+        <dex dex="D:\androidstudioprojects\testDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_df749f050d1dd9db87e14bd8e634e078eff527a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudioprojects\testDB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\androidstudioprojects\testDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_2ab776966a676ff95c9bc82ce359fe717ba5e590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Song2U\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\androidstudioprojects\testDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_10a38c9911079703d42128d4c1db75d0df695fef\classes.dex" />
+    </item>
+
+</items>
